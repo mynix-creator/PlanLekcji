@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PlanLekcji" parent="Theme.MaterialComponents.Light" />
+</resources>
