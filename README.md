@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📅 Plan Lekcji
+# 📅 Plan Lekcji 
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-brightgreen?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
